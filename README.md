@@ -5,7 +5,7 @@
 ## Crie um python environment e instale as dependências
 
 ```bash
-conda create --name cmp_263 -f environment.yml
+conda create -f environment.yml
 conda activate cmp_263
 
 ```
