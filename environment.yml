@@ -14,10 +14,11 @@ dependencies:
   - backports.functools_lru_cache=1.6.4=pyhd8ed1ab_0
   - blas=1.0=mkl
   - bleach=4.1.0=pyhd8ed1ab_0
+  - bottleneck=1.3.2=py39h7cc1a96_1
   - brotli=1.0.9=ha925a31_2
   - brotlipy=0.7.0=py39hb82d6ee_1003
-  - ca-certificates=2021.10.8=h5b45459_0
-  - certifi=2021.10.8=py39hcbf5309_1
+  - ca-certificates=2021.10.26=haa95532_2
+  - certifi=2021.10.8=py39haa95532_0
   - cffi=1.15.0=py39h0878f49_0
   - chardet=4.0.0=py39hcbf5309_2
   - charset-normalizer=2.0.0=pyhd8ed1ab_0
@@ -83,11 +84,13 @@ dependencies:
   - nbformat=5.1.3=pyhd8ed1ab_0
   - nest-asyncio=1.5.1=pyhd8ed1ab_0
   - notebook=6.4.5=pyha770c72_0
+  - numexpr=2.7.3=py39hb80d3ca_1
   - numpy=1.21.2=py39hfca59bb_0
   - numpy-base=1.21.2=py39h0829f74_0
   - olefile=0.46=pyhd3eb1b0_0
-  - openssl=1.1.1l=h8ffe710_0
+  - openssl=1.1.1l=h2bbff1b_0
   - packaging=21.0=pyhd8ed1ab_0
+  - pandas=1.3.4=py39h6214cd6_0
   - pandoc=2.16.1=h8ffe710_0
   - pandocfilters=1.5.0=pyhd8ed1ab_0
   - parso=0.8.2=pyhd8ed1ab_0
